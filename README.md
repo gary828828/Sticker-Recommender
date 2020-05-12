@@ -1,5 +1,5 @@
 # Sticker-Recommender
-This is a project for DataX(2020 Spring)
+This is a project for 290 DataX(Spring 2020)
 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
