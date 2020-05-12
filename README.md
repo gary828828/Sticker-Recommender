@@ -2,10 +2,8 @@
 This is a project for 290 DataX(Spring 2020)
 
 ### Prerequisites
-1. Stickers
-Stickers we used were scraped from line offical stickers: https://store.line.me/stickershop/home/general/en
-2. Packages
-You must have Scikit Learn, Pandas (for Machine Leraning Model),Flask (for API) and virtualenv(for environment)installed.
+1. Stickers we used were scraped from line offical stickers: https://store.line.me/stickershop/home/general/en
+2. You must have Scikit Learn, Pandas (for Machine Leraning Model),Flask (for API) and virtualenv(for environment)installed.
 
 ### Project Structure
 This project has four major parts :
